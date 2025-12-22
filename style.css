@@ -1,0 +1,24 @@
+.background {
+background-image: url("images/background.png");
+background-size: cover;
+height: 100vh;
+width: 100%;
+}
+h2{
+    text-align: center;
+   padding-top: 22px;
+}
+.santa{
+   font-family:'Pacifico',cursive; 
+   font-size: 96px;
+   color: #b82c2c;
+   text-align: center;
+   margin-top: 20px;
+}
+.secret{
+    font-family: 'Pacifico',cursive; 
+   font-size: 96px;
+   color: #2cb841;
+   text-align: center;
+   margin-top: 20px;;
+}
